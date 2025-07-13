@@ -1,0 +1,6 @@
+Column Descriptors:
+year: Year of CO2 concentration measurement (integer).
+month: Month of CO2 concentration measurement (integer, 1-12).
+day: Day of CO2 concentration measurement (integer, 1-31).
+cycle: Represents the seasonal cycle in CO2 concentration (float, measured in ppm).
+trend: Represents the long-term trend in CO2 concentration (float, measured in ppm).

@@ -1,0 +1,31 @@
+project_id,project_name,country,energy_type,capacity_mw,investment_usd_millions,start_date,completion_date,status,co2_reduction_tons_annually,jobs_created,technology_provider,grid_integration
+RE001,Sahara Solar Complex,Morocco,Solar,2000,4500,2023-01-15,2025-12-31,Under Construction,3500000,8500,SolarTech Global,High Voltage DC
+RE002,North Sea Wind Farm Alpha,United Kingdom,Wind,1200,2800,2023-06-01,2025-08-30,Under Construction,2800000,4200,WindPower Solutions,Offshore Grid
+RE003,Amazon Hydroelectric Project,Brazil,Hydro,3500,6200,2022-03-10,2026-05-15,Under Construction,2100000,12000,HydroMax Engineering,National Grid
+RE004,Baltic Wind Cluster,Denmark,Wind,800,1900,2023-09-20,2025-11-30,Under Construction,1900000,3100,Nordic Wind Tech,Smart Grid
+RE005,Atacama Solar Park Extension,Chile,Solar,1500,3200,2023-04-12,2025-09-30,Under Construction,2700000,5800,Chilean Solar Corp,Regional Grid
+RE006,Queensland Solar Array,Australia,Solar,1100,2400,2023-07-08,2025-10-15,Under Construction,2000000,4500,AusSolar Technologies,State Grid
+RE007,Patagonia Wind Corridor,Argentina,Wind,2200,4800,2022-11-25,2026-03-20,Under Construction,4200000,7800,Patagonian Energy,Cross-Border Grid
+RE008,Gobi Desert Solar,Mongolia,Solar,1800,3800,2023-02-14,2025-12-10,Under Construction,3200000,6200,Asian Solar Alliance,Regional Transmission
+RE009,Norwegian Fjord Hydro,Norway,Hydro,900,2100,2023-05-30,2025-08-15,Under Construction,800000,2800,Nordic Hydro Systems,National Grid
+RE010,Rajasthan Solar City,India,Solar,2500,5200,2022-08-18,2025-11-30,Under Construction,4500000,9500,Indian Renewables Ltd,State Grid
+RE011,Texas Wind Megaproject,United States,Wind,3000,6800,2023-01-05,2026-02-28,Under Construction,5800000,11200,American Wind Corp,ERCOT Grid
+RE012,Kenyan Geothermal Expansion,Kenya,Geothermal,400,800,2023-03-22,2025-07-30,Under Construction,350000,1800,East African Energy,National Grid
+RE013,Romanian Solar Farm,Romania,Solar,600,1200,2023-06-15,2025-09-30,Under Construction,1100000,2400,European Solar Union,EU Grid
+RE014,Vietnamese Offshore Wind,Vietnam,Wind,1600,3400,2022-10-12,2026-01-15,Under Construction,3000000,5900,Southeast Asian Wind,National Transmission
+RE015,Egyptian Solar Corridor,Egypt,Solar,2800,5800,2023-02-28,2026-04-30,Under Construction,5000000,10800,Middle East Solar,Regional Grid
+RE016,Canadian Arctic Wind,Canada,Wind,1400,3100,2023-08-10,2025-12-15,Under Construction,2600000,4800,Arctic Energy Solutions,Provincial Grid
+RE017,Polish Wind Valley,Poland,Wind,900,2000,2023-04-25,2025-10-30,Under Construction,1700000,3400,Central European Wind,EU Transmission
+RE018,Thai Solar Network,Thailand,Solar,1300,2700,2023-07-20,2025-11-15,Under Construction,2400000,5100,ASEAN Solar Collective,Regional Grid
+RE019,Icelandic Geothermal Plus,Iceland,Geothermal,300,600,2023-01-30,2025-06-30,Under Construction,200000,1200,Nordic Geothermal,District Heating
+RE020,South African Solar Hub,South Africa,Solar,1700,3600,2022-12-08,2025-08-30,Under Construction,3100000,6800,African Renewable Energy,National Grid
+RE021,Finnish Wind Coast,Finland,Wind,1100,2400,2023-05-18,2025-09-15,Under Construction,2100000,3800,Baltic Wind Systems,Nordic Grid
+RE022,Mexican Solar Desert,Mexico,Solar,2100,4400,2023-03-05,2026-01-30,Under Construction,3800000,8200,Latin Solar Alliance,National Transmission
+RE023,Turkish Wind Hills,Turkey,Wind,1300,2800,2023-06-30,2025-11-30,Under Construction,2400000,4600,Anatolian Wind Power,Turkish Grid
+RE024,Indonesian Geothermal,Indonesia,Geothermal,800,1600,2022-09-15,2025-12-30,Under Construction,700000,2900,Pacific Geothermal,Island Grid
+RE025,Portuguese Ocean Wind,Portugal,Wind,1000,2200,2023-08-25,2025-10-15,Under Construction,1900000,3500,Iberian Wind Technologies,EU Grid
+RE026,Colombian Hydro Valley,Colombia,Hydro,1800,3800,2022-11-10,2026-05-30,Under Construction,1200000,6500,Andean Hydro Systems,National Grid
+RE027,Moroccan Wind Coast,Morocco,Wind,1500,3200,2023-02-20,2025-12-30,Under Construction,2800000,5200,North African Wind,HVDC Morocco
+RE028,Japanese Floating Solar,Japan,Solar,800,1800,2023-07-12,2025-08-30,Under Construction,1500000,3200,Japanese Floating Tech,Regional Grid
+RE029,Greek Island Solar,Greece,Solar,600,1300,2023-04-08,2025-09-15,Under Construction,1100000,2600,Mediterranean Solar,Island Microgrid
+RE030,New Zealand Wind Range,New Zealand,Wind,1200,2600,2023-09-05,2025-11-30,Under Construction,2300000,4100,Kiwi Wind Power,National Grid
